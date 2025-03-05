@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 
 import Filter from './components/Filter'
 import Loader from './components/Loader'
-import ProductCard from './components/ProductsCard'
+import ProductCard from './components/ProductCard'
 import SearchBar from './components/SearchBar'
 
 import './App.css'
